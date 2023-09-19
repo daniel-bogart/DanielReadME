@@ -12,5 +12,10 @@ Taking what I learned from my time in the world of a tech startup and my own fre
     <img src="https://github.com/daniel-bogart/DanielReadME/blob/main/assets/linkedin.svg" alt="linkedin">
 </a>
 
+<a href="https://www.danielrbogart.com/">
+    <img src="https://github.com/daniel-bogart/DanielReadME/blob/main/assets/512.png" alt="danielLogo">
+</a>
+
+
 
 
