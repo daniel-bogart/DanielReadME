@@ -16,6 +16,10 @@ Taking what I learned from my time in the world of a tech startup and my own fre
     <img height="36px" width="36px" src="https://github.com/daniel-bogart/DanielReadME/blob/main/assets/512.png" alt="danielLogo">
 </a>
 
+<a href="https://www.danielrbogart.com/blog">
+    <img height="36px" width="36px" src="https://github.com/daniel-bogart/DanielReadME/blob/main/assets/blog-outline.svg" alt="danielBlog">
+</a>
+
 
 
 
