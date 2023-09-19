@@ -9,7 +9,8 @@ After graduating a from a highly competative bootcamp, I got my start at a fast 
 Taking what I learned from my time in the world of a tech startup and my own free time, I began to freelance for both businesses and individuals, building websites from scratch, working with world class designers, and ever expanding my knowledge and love for web development. I care deeply about function, feel, learning and implementing new best practices, and am ultimately a builder at heart.
 
 <a href="https://www.linkedin.com/in/danielrbogart/">
-    <img src="./assets/linkedin.svg" alt="linkedin">
+    <img src="https://github.com/daniel-bogart/DanielReadME/blob/main/assets/linkedin.svg" alt="linkedin">
 </a>
+
 
 
