@@ -7,3 +7,8 @@ My name is Daniel and I'm a frontend software engineer and web developer with ye
 After graduating a from a highly competative bootcamp, I got my start at a fast growing time-series database startup where I was responsible for building and maintaining web properties, conducting A/B testing along with creating dashboards for marketing analysis, devOps, distributed design systems, and planning a rebrand.
 
 Taking what I learned from my time in the world of a tech startup and my own free time, I began to freelance for both businesses and individuals, building websites from scratch, working with world class designers, and ever expanding my knowledge and love for web development. I care deeply about function, feel, learning and implementing new best practices, and am ultimately a builder at heart.
+<a href="https://www.linkedin.com/in/danielrbogart/">
+    <img src="https://github.com/daniel-bogart/DanielReadME/assets/75914647/dc230d24-1b78-49f0-bf1c-0fc1981d5dd9" alt="linkedin">
+</a>
+
+
